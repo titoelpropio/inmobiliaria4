@@ -2,6 +2,8 @@
 
 @section('contenido')
 @include('mapa.modal')
+{!!Html::script('js/mapa.js')!!}
+
 <div class="panel panel-success">
      <div class="panel-heading">
           <ul class="nav nav-pills">
@@ -6336,235 +6338,235 @@
         </g>
         <g id="TEXT_5481_">
 
-            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 136.3625 1091.5023)" fill="#F400FF" font-family="'ArialMT'" font-size="16.631">MZ-1</text>
+            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 136.3625 1091.5023)" fill="red" font-family="'ArialMT'" font-size="16.631">MZ-1</text>
         </g>
         <g id="TEXT_5480_">
 
-            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 810.2983 1164.5923)" fill="#F400FF" font-family="'ArialMT'" font-size="16.631">MZ-112</text>
+            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 810.2983 1164.5923)" fill="red" font-family="'ArialMT'" font-size="16.631">MZ-112</text>
         </g>
         <g id="TEXT_5479_">
 
-            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 159.3689 707.3277)" fill="#F400FF" font-family="'ArialMT'" font-size="16.631">MZ-3</text>
+            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 159.3689 707.3277)" fill="red" font-family="'ArialMT'" font-size="16.631">MZ-3</text>
         </g>
         <g id="TEXT_5478_">
 
-            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 148.1648 889.7333)" fill="#F400FF" font-family="'ArialMT'" font-size="16.631">MZ-2</text>
+            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 148.1648 889.7333)" fill="red" font-family="'ArialMT'" font-size="16.631">MZ-2</text>
         </g>
         <g id="TEXT_5477_">
 
-            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 167.1348 530.0491)" fill="#F400FF" font-family="'ArialMT'" font-size="16.631">MZ-4</text>
+            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 167.1348 530.0491)" fill="red" font-family="'ArialMT'" font-size="16.631">MZ-4</text>
         </g>
         <g id="TEXT_5475_">
 
-            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 175.5054 346.2062)" fill="#F400FF" font-family="'ArialMT'" font-size="16.631">MZ-5</text>
+            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 175.5054 346.2062)" fill="red" font-family="'ArialMT'" font-size="16.631">MZ-5</text>
         </g>
         <g id="TEXT_5474_">
 
-            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 187.3655 151.6305)" fill="#F400FF" font-family="'ArialMT'" font-size="16.631">MZ-6</text>
+            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 187.3655 151.6305)" fill="red" font-family="'ArialMT'" font-size="16.631">MZ-6</text>
         </g>
         <g id="TEXT_5473_">
 
-            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 345.8279 126.3207)" fill="#F400FF" font-family="'ArialMT'" font-size="16.631">MZ-38</text>
+            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 345.8279 126.3207)" fill="red" font-family="'ArialMT'" font-size="16.631">MZ-38</text>
         </g>
         <g id="TEXT_5468_">
 
-            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 283.2073 1140.3771)" fill="#F400FF" font-family="'ArialMT'" font-size="16.631">MZ-51</text>
+            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 283.2073 1140.3771)" fill="red" font-family="'ArialMT'" font-size="16.631">MZ-51</text>
         </g>
         <g id="TEXT_5417_">
 
-            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 588.9675 140.6522)" fill="#F400FF" font-family="'ArialMT'" font-size="16.631">MZ-62</text>
+            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 588.9675 140.6522)" fill="red" font-family="'ArialMT'" font-size="16.631">MZ-62</text>
         </g>
         <g id="TEXT_5416_">
 
-            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 585.0747 218.3544)" fill="#F400FF" font-family="'ArialMT'" font-size="16.631">MZ-61</text>
+            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 585.0747 218.3544)" fill="red" font-family="'ArialMT'" font-size="16.631">MZ-61</text>
         </g>
         <g id="TEXT_5415_">
 
-            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 821.0783 227.855)" fill="#F400FF" font-family="'ArialMT'" font-size="16.631">MZ-100</text>
+            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 821.0783 227.855)" fill="red" font-family="'ArialMT'" font-size="16.631">MZ-100</text>
         </g>
         <g id="TEXT_5414_">
 
-            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 824.9714 150.1528)" fill="#F400FF" font-family="'ArialMT'" font-size="16.631">MZ-99</text>
+            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 824.9714 150.1528)" fill="red" font-family="'ArialMT'" font-size="16.631">MZ-99</text>
         </g>
         <g id="TEXT_5413_">
 
-            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 581.1816 296.0564)" fill="#F400FF" font-family="'ArialMT'" font-size="16.631">MZ-60</text>
+            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 581.1816 296.0564)" fill="red" font-family="'ArialMT'" font-size="16.631">MZ-60</text>
         </g>
         <g id="TEXT_5412_">
 
-            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 583.4761 373.132)" fill="#F400FF" font-family="'ArialMT'" font-size="16.631">EQ-1.</text>
+            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 583.4761 373.132)" fill="red" font-family="'ArialMT'" font-size="16.631">EQ-1.</text>
         </g>
         <g id="TEXT_5411_">
 
-            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 822.0056 379.7533)" fill="#F400FF" font-family="'ArialMT'" font-size="16.631">MZ-102</text>
+            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 822.0056 379.7533)" fill="red" font-family="'ArialMT'" font-size="16.631">MZ-102</text>
         </g>
         <g id="TEXT_5410_">
 
-            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 822.4421 461.7827)" fill="#F400FF" font-family="'ArialMT'" font-size="16.631">MZ-103</text>
+            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 822.4421 461.7827)" fill="red" font-family="'ArialMT'" font-size="16.631">MZ-103</text>
         </g>
         <g id="TEXT_5409_">
 
-            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 576.3357 449.7522)" fill="#F400FF" font-family="'ArialMT'" font-size="16.631">A.V.-2</text>
+            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 576.3357 449.7522)" fill="red" font-family="'ArialMT'" font-size="16.631">A.V.-2</text>
         </g>
         <g id="TEXT_5408_">
 
-            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 567.4319 526.5027)" fill="#F400FF" font-family="'ArialMT'" font-size="16.631">MZ-59</text>
+            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 567.4319 526.5027)" fill="red" font-family="'ArialMT'" font-size="16.631">MZ-59</text>
         </g>
         <g id="TEXT_5407_">
 
-            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 563.5391 604.2047)" fill="#F400FF" font-family="'ArialMT'" font-size="16.631">MZ-58</text>
+            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 563.5391 604.2047)" fill="red" font-family="'ArialMT'" font-size="16.631">MZ-58</text>
         </g>
         <g id="TEXT_5406_">
 
-            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 802.3412 616.0605)" fill="#F400FF" font-family="'ArialMT'" font-size="16.631">MZ-105</text>
+            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 802.3412 616.0605)" fill="red" font-family="'ArialMT'" font-size="16.631">MZ-105</text>
         </g>
         <g id="TEXT_5405_">
 
-            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 559.3218 688.3819)" fill="#F400FF" font-family="'ArialMT'" font-size="16.631">MZ-57</text>
+            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 559.3218 688.3819)" fill="red" font-family="'ArialMT'" font-size="16.631">MZ-57</text>
         </g>
         <g id="TEXT_5404_">
 
-            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 798.1086 702.5237)" fill="#F400FF" font-family="'ArialMT'" font-size="16.631">MZ-106</text>
+            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 798.1086 702.5237)" fill="red" font-family="'ArialMT'" font-size="16.631">MZ-106</text>
         </g>
         <g id="TEXT_5403_">
 
-            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 794.2158 780.2257)" fill="#F400FF" font-family="'ArialMT'" font-size="16.631">MZ-107</text>
+            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 794.2158 780.2257)" fill="red" font-family="'ArialMT'" font-size="16.631">MZ-107</text>
         </g>
         <g id="TEXT_5402_">
 
-            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 549.9819 766.0839)" fill="#F400FF" font-family="'ArialMT'" font-size="16.631">MZ-56</text>
+            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 549.9819 766.0839)" fill="red" font-family="'ArialMT'" font-size="16.631">MZ-56</text>
         </g>
         <g id="TEXT_5401_">
 
-            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 546.0891 843.7859)" fill="#F400FF" font-family="'ArialMT'" font-size="16.631">A.V.-1 </text>
+            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 546.0891 843.7859)" fill="red" font-family="'ArialMT'" font-size="16.631">A.V.-1 </text>
         </g>
         <g id="TEXT_5400_">
 
-            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 790.3227 857.9277)" fill="#F400FF" font-family="'ArialMT'" font-size="16.631">MZ-108</text>
+            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 790.3227 857.9277)" fill="red" font-family="'ArialMT'" font-size="16.631">MZ-108</text>
         </g>
         <g id="TEXT_5399_">
 
-            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 786.4298 935.6298)" fill="#F400FF" font-family="'ArialMT'" font-size="16.631">MZ-109</text>
+            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 786.4298 935.6298)" fill="red" font-family="'ArialMT'" font-size="16.631">MZ-109</text>
         </g>
         <g id="TEXT_5398_">
 
-            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 542.1963 921.4879)" fill="#F400FF" font-family="'ArialMT'" font-size="16.631">MZ-55</text>
+            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 542.1963 921.4879)" fill="red" font-family="'ArialMT'" font-size="16.631">MZ-55</text>
         </g>
         <g id="TEXT_5397_">
 
-            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 782.5369 1013.3318)" fill="#F400FF" font-family="'ArialMT'" font-size="16.631">MZ-110</text>
+            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 782.5369 1013.3318)" fill="red" font-family="'ArialMT'" font-size="16.631">MZ-110</text>
         </g>
         <g id="TEXT_5396_">
 
-            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 538.3032 999.19)" fill="#F400FF" font-family="'ArialMT'" font-size="16.631">MZ-54</text>
+            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 538.3032 999.19)" fill="red" font-family="'ArialMT'" font-size="16.631">MZ-54</text>
         </g>
         <g id="TEXT_5395_">
 
-            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 534.4104 1076.892)" fill="#F400FF" font-family="'ArialMT'" font-size="16.631">MZ-53</text>
+            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 534.4104 1076.892)" fill="red" font-family="'ArialMT'" font-size="16.631">MZ-53</text>
         </g>
         <g id="TEXT_5394_">
 
-            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 778.6438 1091.0338)" fill="#F400FF" font-family="'ArialMT'" font-size="16.631">MZ-111</text>
+            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 778.6438 1091.0338)" fill="red" font-family="'ArialMT'" font-size="16.631">MZ-111</text>
         </g>
         <g id="TEXT_5393_">
 
-            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 530.5173 1154.594)" fill="#F400FF" font-family="'ArialMT'" font-size="16.631">MZ-52</text>
+            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 530.5173 1154.594)" fill="red" font-family="'ArialMT'" font-size="16.631">MZ-52</text>
         </g>
         <g id="TEXT_5369_">
 
-            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 1449.2964 181.3715)" fill="#F400FF" font-family="'ArialMT'" font-size="16.631">MZ-159</text>
+            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 1449.2964 181.3715)" fill="red" font-family="'ArialMT'" font-size="16.631">MZ-159</text>
         </g>
         <g id="TEXT_5353_">
 
-            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 997.8115 188.0774)" fill="#F400FF" font-family="'ArialMT'" font-size="16.631">MZ-117</text>
+            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 997.8115 188.0774)" fill="red" font-family="'ArialMT'" font-size="16.631">MZ-117</text>
         </g>
         <g id="TEXT_5352_">
 
-            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 1253.9382 172.5783)" fill="#F400FF" font-family="'ArialMT'" font-size="16.631">MZ-141</text>
+            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 1253.9382 172.5783)" fill="red" font-family="'ArialMT'" font-size="16.631">MZ-141</text>
         </g>
         <g id="TEXT_5349_">
 
-            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 989.728 393.0325)" fill="#F400FF" font-family="'ArialMT'" font-size="16.631">MZ-116</text>
+            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 989.728 393.0325)" fill="red" font-family="'ArialMT'" font-size="16.631">MZ-116</text>
         </g>
         <g id="TEXT_5348_">
 
-            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 1250.0454 250.2804)" fill="#F400FF" font-family="'ArialMT'" font-size="16.631">MZ-140</text>
+            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 1250.0454 250.2804)" fill="red" font-family="'ArialMT'" font-size="16.631">MZ-140</text>
         </g>
         <g id="TEXT_5347_">
 
-            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 977.2077 585.6262)" fill="#F400FF" font-family="'ArialMT'" font-size="16.631">MZ-115</text>
+            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 977.2077 585.6262)" fill="red" font-family="'ArialMT'" font-size="16.631">MZ-115</text>
         </g>
         <g id="TEXT_5342_">
 
-            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 1131.2996 753.8372)" fill="#F400FF" font-family="'ArialMT'" font-size="16.631">MZ-136</text>
+            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 1131.2996 753.8372)" fill="red" font-family="'ArialMT'" font-size="16.631">MZ-136</text>
         </g>
         <g id="TEXT_5341_">
 
-            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 1210.1902 619.9924)" fill="#F400FF" font-family="'ArialMT'" font-size="16.631">MZ-137</text>
+            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 1210.1902 619.9924)" fill="red" font-family="'ArialMT'" font-size="16.631">MZ-137</text>
         </g>
         <g id="TEXT_5340_">
 
-            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 1297.7891 474.9878)" fill="#F400FF" font-family="'ArialMT'" font-size="16.631">MZ-138</text>
+            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 1297.7891 474.9878)" fill="red" font-family="'ArialMT'" font-size="16.631">MZ-138</text>
         </g>
         <g id="TEXT_5339_">
 
-            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 1400.9004 305.3597)" fill="#F400FF" font-family="'ArialMT'" font-size="16.631">MZ-160</text>
+            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 1400.9004 305.3597)" fill="red" font-family="'ArialMT'" font-size="16.631">MZ-160</text>
         </g>
         <g id="TEXT_5335_">
 
-            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 341.9348 204.0228)" fill="#F400FF" font-family="'ArialMT'" font-size="16.631">MZ-39</text>
+            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 341.9348 204.0228)" fill="red" font-family="'ArialMT'" font-size="16.631">MZ-39</text>
         </g>
         <g id="TEXT_5334_">
 
-            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 338.042 281.7249)" fill="#F400FF" font-family="'ArialMT'" font-size="16.631">MZ-40</text>
+            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 338.042 281.7249)" fill="red" font-family="'ArialMT'" font-size="16.631">MZ-40</text>
         </g>
         <g id="TEXT_5333_">
 
-            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 334.1492 359.4269)" fill="#F400FF" font-family="'ArialMT'" font-size="16.631">MZ-41</text>
+            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 334.1492 359.4269)" fill="red" font-family="'ArialMT'" font-size="16.631">MZ-41</text>
         </g>
         <g id="TEXT_5332_">
 
-            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 330.2561 437.1289)" fill="#F400FF" font-family="'ArialMT'" font-size="16.631">MZ-42</text>
+            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 330.2561 437.1289)" fill="red" font-family="'ArialMT'" font-size="16.631">MZ-42</text>
         </g>
         <g id="TEXT_5331_">
 
-            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 326.3633 514.8309)" fill="#F400FF" font-family="'ArialMT'" font-size="16.631">MZ-43</text>
+            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 326.3633 514.8309)" fill="red" font-family="'ArialMT'" font-size="16.631">MZ-43</text>
         </g>
         <g id="TEXT_5330_">
 
-            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 322.4702 592.533)" fill="#F400FF" font-family="'ArialMT'" font-size="16.631">MZ-44</text>
+            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 322.4702 592.533)" fill="red" font-family="'ArialMT'" font-size="16.631">MZ-44</text>
         </g>
         <g id="TEXT_5329_">
 
-            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 318.2529 676.7101)" fill="#F400FF" font-family="'ArialMT'" font-size="16.631">MZ-45</text>
+            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 318.2529 676.7101)" fill="red" font-family="'ArialMT'" font-size="16.631">MZ-45</text>
         </g>
         <g id="TEXT_5328_">
 
-            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 314.3601 754.4121)" fill="#F400FF" font-family="'ArialMT'" font-size="16.631">MZ-46</text>
+            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 314.3601 754.4121)" fill="red" font-family="'ArialMT'" font-size="16.631">MZ-46</text>
         </g>
         <g id="TEXT_5327_">
 
-            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 310.467 832.1141)" fill="#F400FF" font-family="'ArialMT'" font-size="16.631">MZ-47</text>
+            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 310.467 832.1141)" fill="red" font-family="'ArialMT'" font-size="16.631">MZ-47</text>
         </g>
         <g id="TEXT_5326_">
 
-            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 306.5742 909.8162)" fill="#F400FF" font-family="'ArialMT'" font-size="16.631">MZ-48</text>
+            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 306.5742 909.8162)" fill="red" font-family="'ArialMT'" font-size="16.631">MZ-48</text>
         </g>
         <g id="TEXT_5325_">
 
-            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 302.6812 987.5182)" fill="#F400FF" font-family="'ArialMT'" font-size="16.631">MZ-49</text>
+            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 302.6812 987.5182)" fill="red" font-family="'ArialMT'" font-size="16.631">MZ-49</text>
         </g>
         <g id="TEXT_5324_">
 
-            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 298.7883 1065.2202)" fill="#F400FF" font-family="'ArialMT'" font-size="16.631">MZ-50</text>
+            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 298.7883 1065.2202)" fill="red" font-family="'ArialMT'" font-size="16.631">MZ-50</text>
         </g>
         <g id="TEXT_5323_">
 
-            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 817.1855 305.557)" fill="#F400FF" font-family="'ArialMT'" font-size="16.631">MZ-101</text>
+            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 817.1855 305.557)" fill="red" font-family="'ArialMT'" font-size="16.631">MZ-101</text>
         </g>
         <g id="TEXT_233_">
 
-            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 805.5068 538.6631)" fill="#F400FF" font-family="'ArialMT'" font-size="16.631">MZ-104</text>
+            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 805.5068 538.6631)" fill="red" font-family="'ArialMT'" font-size="16.631">MZ-104</text>
         </g>
         <g id="HATCH_10_">
             <path fill-rule="evenodd" clip-rule="evenodd" fill="none" d="M1054.2,751.4l22.7,0.1l0-8.9l-22.7-0.1L1054.2,751.4L1054.2,751.4z
@@ -6572,19 +6574,19 @@
         </g>
         <g id="TEXT_234_">
 
-            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 1055.6914 749.4308)" fill="#F400FF" font-family="'ArialMT'" font-size="16.631">EQ.-7</text>
+            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 1055.6914 749.4308)" fill="red" font-family="'ArialMT'" font-size="16.631">EQ.-7</text>
         </g>
         <g id="TEXT_238_">
 
-            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 1081.9888 192.2947)" fill="#F400FF" font-family="'ArialMT'" font-size="16.631">MZ-132</text>
+            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 1081.9888 192.2947)" fill="red" font-family="'ArialMT'" font-size="16.631">MZ-132</text>
         </g>
         <g id="TEXT_239_">
 
-            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 1073.9053 397.2498)" fill="#F400FF" font-family="'ArialMT'" font-size="16.631">MZ-133</text>
+            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 1073.9053 397.2498)" fill="red" font-family="'ArialMT'" font-size="16.631">MZ-133</text>
         </g>
         <g id="TEXT_240_">
 
-            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 1061.3848 589.8435)" fill="#F400FF" font-family="'ArialMT'" font-size="16.631">MZ-134</text>
+            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 1061.3848 589.8435)" fill="red" font-family="'ArialMT'" font-size="16.631">MZ-134</text>
         </g>
         <g id="TEXT_241_">
             <text transform="matrix(1 0 0 1 127.1776 993.6875)" font-family="'ArialMT'" font-size="3.0524">1</text>
@@ -12521,57 +12523,57 @@
             <g id="DIMENSION_1008_" display="none">
                 <g id="MTEXT_1008_" display="inline">
 
-                    <text transform="matrix(0.336 0.9419 -0.9419 0.336 235.4501 403.2023)" fill="#F400FF" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
+                    <text transform="matrix(0.336 0.9419 -0.9419 0.336 235.4501 403.2023)" fill="red" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
                 </g>
                 <g id="POINT_2994_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="232.3" y1="397.7" x2="232.3" y2="397.7"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="232.3" y1="397.7" x2="232.3" y2="397.7"/>
                 </g>
                 <g id="POINT_2993_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="234.9" y1="404.8" x2="234.9" y2="404.8"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="234.9" y1="404.8" x2="234.9" y2="404.8"/>
                 </g>
             </g>
             <g id="DIMENSION_1007_" display="none">
                 <g id="MTEXT_1007_" display="inline">
 
-                    <text transform="matrix(0.9419 -0.336 0.336 0.9419 230.7461 453.9217)" fill="#F400FF" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
+                    <text transform="matrix(0.9419 -0.336 0.336 0.9419 230.7461 453.9217)" fill="red" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
                 </g>
                 <g id="POINT_2992_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="225.3" y1="457" x2="225.3" y2="457"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="225.3" y1="457" x2="225.3" y2="457"/>
                 </g>
                 <g id="POINT_2991_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="232.4" y1="454.5" x2="232.4" y2="454.5"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="232.4" y1="454.5" x2="232.4" y2="454.5"/>
                 </g>
             </g>
             <g id="DIMENSION_1006_" display="none">
                 <g id="MTEXT_1006_" display="inline">
 
-                    <text transform="matrix(0.336 0.9419 -0.9419 0.336 449.1747 458.7632)" fill="#F400FF" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
+                    <text transform="matrix(0.336 0.9419 -0.9419 0.336 449.1747 458.7632)" fill="red" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
                 </g>
                 <g id="POINT_2990_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="452.9" y1="472.5" x2="452.9" y2="472.5"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="452.9" y1="472.5" x2="452.9" y2="472.5"/>
                 </g>
                 <g id="POINT_2989_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="450.4" y1="465.4" x2="450.4" y2="465.4"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="450.4" y1="465.4" x2="450.4" y2="465.4"/>
                 </g>
             </g>
             <g id="DIMENSION_1005_" display="none">
                 <g id="MTEXT_1005_" display="inline">
 
-                    <text transform="matrix(0.9419 -0.336 0.336 0.9419 446.2268 416.9853)" fill="#F400FF" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
+                    <text transform="matrix(0.9419 -0.336 0.336 0.9419 446.2268 416.9853)" fill="red" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
                 </g>
                 <g id="POINT_2988_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="460" y1="413.2" x2="460" y2="413.2"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="460" y1="413.2" x2="460" y2="413.2"/>
                 </g>
                 <g id="POINT_2987_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="452.9" y1="415.8" x2="452.9" y2="415.8"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="452.9" y1="415.8" x2="452.9" y2="415.8"/>
                 </g>
             </g>
             <g id="DIMENSION_1004_" display="none">
@@ -13801,57 +13803,57 @@
             <g id="DIMENSION_954_" display="none">
                 <g id="MTEXT_954_" display="inline">
 
-                    <text transform="matrix(0.336 0.9419 -0.9419 0.336 239.3427 325.5003)" fill="#F400FF" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
+                    <text transform="matrix(0.336 0.9419 -0.9419 0.336 239.3427 325.5003)" fill="red" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
                 </g>
                 <g id="POINT_2836_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="236.2" y1="320" x2="236.2" y2="320"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="236.2" y1="320" x2="236.2" y2="320"/>
                 </g>
                 <g id="POINT_2835_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="238.8" y1="327.1" x2="238.8" y2="327.1"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="238.8" y1="327.1" x2="238.8" y2="327.1"/>
                 </g>
             </g>
             <g id="DIMENSION_953_" display="none">
                 <g id="MTEXT_953_" display="inline">
 
-                    <text transform="matrix(0.9419 -0.336 0.336 0.9419 234.6389 376.2196)" fill="#F400FF" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
+                    <text transform="matrix(0.9419 -0.336 0.336 0.9419 234.6389 376.2196)" fill="red" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
                 </g>
                 <g id="POINT_2834_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="229.2" y1="379.3" x2="229.2" y2="379.3"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="229.2" y1="379.3" x2="229.2" y2="379.3"/>
                 </g>
                 <g id="POINT_2833_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="236.3" y1="376.8" x2="236.3" y2="376.8"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="236.3" y1="376.8" x2="236.3" y2="376.8"/>
                 </g>
             </g>
             <g id="DIMENSION_952_" display="none">
                 <g id="MTEXT_952_" display="inline">
 
-                    <text transform="matrix(0.336 0.9419 -0.9419 0.336 453.0673 381.0612)" fill="#F400FF" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
+                    <text transform="matrix(0.336 0.9419 -0.9419 0.336 453.0673 381.0612)" fill="red" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
                 </g>
                 <g id="POINT_2832_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="456.8" y1="394.8" x2="456.8" y2="394.8"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="456.8" y1="394.8" x2="456.8" y2="394.8"/>
                 </g>
                 <g id="POINT_2831_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="454.3" y1="387.7" x2="454.3" y2="387.7"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="454.3" y1="387.7" x2="454.3" y2="387.7"/>
                 </g>
             </g>
             <g id="DIMENSION_951_" display="none">
                 <g id="MTEXT_951_" display="inline">
 
-                    <text transform="matrix(0.9419 -0.336 0.336 0.9419 450.1198 339.2831)" fill="#F400FF" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
+                    <text transform="matrix(0.9419 -0.336 0.336 0.9419 450.1198 339.2831)" fill="red" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
                 </g>
                 <g id="POINT_2830_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="463.9" y1="335.5" x2="463.9" y2="335.5"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="463.9" y1="335.5" x2="463.9" y2="335.5"/>
                 </g>
                 <g id="POINT_2829_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="456.8" y1="338.1" x2="456.8" y2="338.1"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="456.8" y1="338.1" x2="456.8" y2="338.1"/>
                 </g>
             </g>
             <g id="DIMENSION_950_" display="none">
@@ -15084,57 +15086,57 @@
             <g id="DIMENSION_900_" display="none">
                 <g id="MTEXT_900_" display="inline">
 
-                    <text transform="matrix(0.336 0.9419 -0.9419 0.336 243.2352 247.7983)" fill="#F400FF" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
+                    <text transform="matrix(0.336 0.9419 -0.9419 0.336 243.2352 247.7983)" fill="red" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
                 </g>
                 <g id="POINT_2678_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="240.1" y1="242.3" x2="240.1" y2="242.3"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="240.1" y1="242.3" x2="240.1" y2="242.3"/>
                 </g>
                 <g id="POINT_2677_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="242.7" y1="249.4" x2="242.7" y2="249.4"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="242.7" y1="249.4" x2="242.7" y2="249.4"/>
                 </g>
             </g>
             <g id="DIMENSION_899_" display="none">
                 <g id="MTEXT_899_" display="inline">
 
-                    <text transform="matrix(0.9419 -0.336 0.336 0.9419 238.532 298.5174)" fill="#F400FF" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
+                    <text transform="matrix(0.9419 -0.336 0.336 0.9419 238.532 298.5174)" fill="red" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
                 </g>
                 <g id="POINT_2676_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="233.1" y1="301.6" x2="233.1" y2="301.6"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="233.1" y1="301.6" x2="233.1" y2="301.6"/>
                 </g>
                 <g id="POINT_2675_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="240.2" y1="299.1" x2="240.2" y2="299.1"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="240.2" y1="299.1" x2="240.2" y2="299.1"/>
                 </g>
             </g>
             <g id="DIMENSION_898_" display="none">
                 <g id="MTEXT_898_" display="inline">
 
-                    <text transform="matrix(0.336 0.9419 -0.9419 0.336 456.9598 303.3592)" fill="#F400FF" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
+                    <text transform="matrix(0.336 0.9419 -0.9419 0.336 456.9598 303.3592)" fill="red" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
                 </g>
                 <g id="POINT_2674_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="460.7" y1="317.1" x2="460.7" y2="317.1"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="460.7" y1="317.1" x2="460.7" y2="317.1"/>
                 </g>
                 <g id="POINT_2673_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="458.2" y1="310" x2="458.2" y2="310"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="458.2" y1="310" x2="458.2" y2="310"/>
                 </g>
             </g>
             <g id="DIMENSION_897_" display="none">
                 <g id="MTEXT_897_" display="inline">
 
-                    <text transform="matrix(0.9419 -0.336 0.336 0.9419 454.0127 261.5811)" fill="#F400FF" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
+                    <text transform="matrix(0.9419 -0.336 0.336 0.9419 454.0127 261.5811)" fill="red" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
                 </g>
                 <g id="POINT_2672_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="467.8" y1="257.8" x2="467.8" y2="257.8"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="467.8" y1="257.8" x2="467.8" y2="257.8"/>
                 </g>
                 <g id="POINT_2671_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="460.7" y1="260.4" x2="460.7" y2="260.4"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="460.7" y1="260.4" x2="460.7" y2="260.4"/>
                 </g>
             </g>
             <g id="DIMENSION_896_" display="none">
@@ -16364,57 +16366,57 @@
             <g id="DIMENSION_846_" display="none">
                 <g id="MTEXT_846_" display="inline">
 
-                    <text transform="matrix(0.336 0.9419 -0.9419 0.336 247.1278 170.0963)" fill="#F400FF" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
+                    <text transform="matrix(0.336 0.9419 -0.9419 0.336 247.1278 170.0963)" fill="red" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
                 </g>
                 <g id="POINT_2520_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="244" y1="164.6" x2="244" y2="164.6"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="244" y1="164.6" x2="244" y2="164.6"/>
                 </g>
                 <g id="POINT_2519_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="246.6" y1="171.7" x2="246.6" y2="171.7"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="246.6" y1="171.7" x2="246.6" y2="171.7"/>
                 </g>
             </g>
             <g id="DIMENSION_845_" display="none">
                 <g id="MTEXT_845_" display="inline">
 
-                    <text transform="matrix(0.9419 -0.336 0.336 0.9419 242.4248 220.8153)" fill="#F400FF" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
+                    <text transform="matrix(0.9419 -0.336 0.336 0.9419 242.4248 220.8153)" fill="red" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
                 </g>
                 <g id="POINT_2518_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="236.9" y1="223.9" x2="236.9" y2="223.9"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="236.9" y1="223.9" x2="236.9" y2="223.9"/>
                 </g>
                 <g id="POINT_2517_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="244.1" y1="221.4" x2="244.1" y2="221.4"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="244.1" y1="221.4" x2="244.1" y2="221.4"/>
                 </g>
             </g>
             <g id="DIMENSION_844_" display="none">
                 <g id="MTEXT_844_" display="inline">
 
-                    <text transform="matrix(0.336 0.9419 -0.9419 0.336 460.8544 225.6572)" fill="#F400FF" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
+                    <text transform="matrix(0.336 0.9419 -0.9419 0.336 460.8544 225.6572)" fill="red" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
                 </g>
                 <g id="POINT_2516_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="464.6" y1="239.4" x2="464.6" y2="239.4"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="464.6" y1="239.4" x2="464.6" y2="239.4"/>
                 </g>
                 <g id="POINT_2515_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="462.1" y1="232.3" x2="462.1" y2="232.3"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="462.1" y1="232.3" x2="462.1" y2="232.3"/>
                 </g>
             </g>
             <g id="DIMENSION_843_" display="none">
                 <g id="MTEXT_843_" display="inline">
 
-                    <text transform="matrix(0.9419 -0.336 0.336 0.9419 457.9057 183.8791)" fill="#F400FF" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
+                    <text transform="matrix(0.9419 -0.336 0.336 0.9419 457.9057 183.8791)" fill="red" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
                 </g>
                 <g id="POINT_2514_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="471.7" y1="180.1" x2="471.7" y2="180.1"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="471.7" y1="180.1" x2="471.7" y2="180.1"/>
                 </g>
                 <g id="POINT_2513_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="464.6" y1="182.7" x2="464.6" y2="182.7"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="464.6" y1="182.7" x2="464.6" y2="182.7"/>
                 </g>
             </g>
             <g id="DIMENSION_842_" display="none">
@@ -17638,57 +17640,57 @@
             <g id="DIMENSION_792_" display="none">
                 <g id="MTEXT_792_" display="inline">
 
-                    <text transform="matrix(0.336 0.9419 -0.9419 0.336 509.7294 -147.8099)" fill="#F400FF" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
+                    <text transform="matrix(0.336 0.9419 -0.9419 0.336 509.7294 -147.8099)" fill="red" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
                 </g>
                 <g id="POINT_2362_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="506.6" y1="-153.3" x2="506.6" y2="-153.3"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="506.6" y1="-153.3" x2="506.6" y2="-153.3"/>
                 </g>
                 <g id="POINT_2361_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="509.2" y1="-146.2" x2="509.2" y2="-146.2"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="509.2" y1="-146.2" x2="509.2" y2="-146.2"/>
                 </g>
             </g>
             <g id="DIMENSION_791_" display="none">
                 <g id="MTEXT_791_" display="inline">
 
-                    <text transform="matrix(0.9419 -0.336 0.336 0.9419 505.0263 -97.0907)" fill="#F400FF" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
+                    <text transform="matrix(0.9419 -0.336 0.336 0.9419 505.0263 -97.0907)" fill="red" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
                 </g>
                 <g id="POINT_2360_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="499.5" y1="-94" x2="499.5" y2="-94"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="499.5" y1="-94" x2="499.5" y2="-94"/>
                 </g>
                 <g id="POINT_2359_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="506.7" y1="-96.5" x2="506.7" y2="-96.5"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="506.7" y1="-96.5" x2="506.7" y2="-96.5"/>
                 </g>
             </g>
             <g id="DIMENSION_790_" display="none">
                 <g id="MTEXT_790_" display="inline">
 
-                    <text transform="matrix(0.336 0.9419 -0.9419 0.336 723.4559 -92.249)" fill="#F400FF" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
+                    <text transform="matrix(0.336 0.9419 -0.9419 0.336 723.4559 -92.249)" fill="red" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
                 </g>
                 <g id="POINT_2358_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="727.2" y1="-78.5" x2="727.2" y2="-78.5"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="727.2" y1="-78.5" x2="727.2" y2="-78.5"/>
                 </g>
                 <g id="POINT_2357_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="724.7" y1="-85.6" x2="724.7" y2="-85.6"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="724.7" y1="-85.6" x2="724.7" y2="-85.6"/>
                 </g>
             </g>
             <g id="DIMENSION_789_" display="none">
                 <g id="MTEXT_789_" display="inline">
 
-                    <text transform="matrix(0.9419 -0.336 0.336 0.9419 720.5068 -134.0269)" fill="#F400FF" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
+                    <text transform="matrix(0.9419 -0.336 0.336 0.9419 720.5068 -134.0269)" fill="red" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
                 </g>
                 <g id="POINT_791_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="734.3" y1="-137.8" x2="734.3" y2="-137.8"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="734.3" y1="-137.8" x2="734.3" y2="-137.8"/>
                 </g>
                 <g id="POINT_792_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="727.2" y1="-135.2" x2="727.2" y2="-135.2"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="727.2" y1="-135.2" x2="727.2" y2="-135.2"/>
                 </g>
             </g>
             <g id="DIMENSION_788_" display="none">
@@ -18628,57 +18630,57 @@
             <g id="DIMENSION_319_" display="none">
                 <g id="MTEXT_319_" display="inline">
 
-                    <text transform="matrix(0.336 0.9419 -0.9419 0.336 505.8368 -70.1078)" fill="#F400FF" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
+                    <text transform="matrix(0.336 0.9419 -0.9419 0.336 505.8368 -70.1078)" fill="red" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
                 </g>
                 <g id="POINT_943_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="502.7" y1="-75.6" x2="502.7" y2="-75.6"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="502.7" y1="-75.6" x2="502.7" y2="-75.6"/>
                 </g>
                 <g id="POINT_944_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="505.3" y1="-68.5" x2="505.3" y2="-68.5"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="505.3" y1="-68.5" x2="505.3" y2="-68.5"/>
                 </g>
             </g>
             <g id="DIMENSION_320_" display="none">
                 <g id="MTEXT_320_" display="inline">
 
-                    <text transform="matrix(0.9419 -0.336 0.336 0.9419 501.1335 -19.3886)" fill="#F400FF" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
+                    <text transform="matrix(0.9419 -0.336 0.336 0.9419 501.1335 -19.3886)" fill="red" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
                 </g>
                 <g id="POINT_945_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="495.7" y1="-16.3" x2="495.7" y2="-16.3"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="495.7" y1="-16.3" x2="495.7" y2="-16.3"/>
                 </g>
                 <g id="POINT_946_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="502.8" y1="-18.8" x2="502.8" y2="-18.8"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="502.8" y1="-18.8" x2="502.8" y2="-18.8"/>
                 </g>
             </g>
             <g id="DIMENSION_321_" display="none">
                 <g id="MTEXT_321_" display="inline">
 
-                    <text transform="matrix(0.336 0.9419 -0.9419 0.336 719.5614 -14.5469)" fill="#F400FF" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
+                    <text transform="matrix(0.336 0.9419 -0.9419 0.336 719.5614 -14.5469)" fill="red" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
                 </g>
                 <g id="POINT_947_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="723.3" y1="-0.8" x2="723.3" y2="-0.8"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="723.3" y1="-0.8" x2="723.3" y2="-0.8"/>
                 </g>
                 <g id="POINT_948_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="720.8" y1="-7.9" x2="720.8" y2="-7.9"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="720.8" y1="-7.9" x2="720.8" y2="-7.9"/>
                 </g>
             </g>
             <g id="DIMENSION_322_" display="none">
                 <g id="MTEXT_322_" display="inline">
 
-                    <text transform="matrix(0.9419 -0.336 0.336 0.9419 716.6139 -56.3249)" fill="#F400FF" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
+                    <text transform="matrix(0.9419 -0.336 0.336 0.9419 716.6139 -56.3249)" fill="red" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
                 </g>
                 <g id="POINT_949_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="730.4" y1="-60.1" x2="730.4" y2="-60.1"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="730.4" y1="-60.1" x2="730.4" y2="-60.1"/>
                 </g>
                 <g id="POINT_950_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="723.3" y1="-57.5" x2="723.3" y2="-57.5"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="723.3" y1="-57.5" x2="723.3" y2="-57.5"/>
                 </g>
             </g>
             <g id="DIMENSION_323_" display="none">
@@ -19618,57 +19620,57 @@
             <g id="DIMENSION_373_" display="none">
                 <g id="MTEXT_373_" display="inline">
 
-                    <text transform="matrix(0.336 0.9419 -0.9419 0.336 1171.5067 -270.4484)" fill="#F400FF" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
+                    <text transform="matrix(0.336 0.9419 -0.9419 0.336 1171.5067 -270.4484)" fill="red" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
                 </g>
                 <g id="POINT_1101_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="1168.4" y1="-275.9" x2="1168.4" y2="-275.9"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="1168.4" y1="-275.9" x2="1168.4" y2="-275.9"/>
                 </g>
                 <g id="POINT_1102_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="1170.9" y1="-268.8" x2="1170.9" y2="-268.8"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="1170.9" y1="-268.8" x2="1170.9" y2="-268.8"/>
                 </g>
             </g>
             <g id="DIMENSION_374_" display="none">
                 <g id="MTEXT_374_" display="inline">
 
-                    <text transform="matrix(0.9419 -0.336 0.336 0.9419 1166.8041 -219.7293)" fill="#F400FF" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
+                    <text transform="matrix(0.9419 -0.336 0.336 0.9419 1166.8041 -219.7293)" fill="red" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
                 </g>
                 <g id="POINT_1103_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="1161.3" y1="-216.6" x2="1161.3" y2="-216.6"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="1161.3" y1="-216.6" x2="1161.3" y2="-216.6"/>
                 </g>
                 <g id="POINT_1104_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="1168.5" y1="-219.2" x2="1168.5" y2="-219.2"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="1168.5" y1="-219.2" x2="1168.5" y2="-219.2"/>
                 </g>
             </g>
             <g id="DIMENSION_375_" display="none">
                 <g id="MTEXT_375_" display="inline">
 
-                    <text transform="matrix(0.336 0.9419 -0.9419 0.336 1385.2333 -214.8875)" fill="#F400FF" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
+                    <text transform="matrix(0.336 0.9419 -0.9419 0.336 1385.2333 -214.8875)" fill="red" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
                 </g>
                 <g id="POINT_1105_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="1389" y1="-201.1" x2="1389" y2="-201.1"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="1389" y1="-201.1" x2="1389" y2="-201.1"/>
                 </g>
                 <g id="POINT_1106_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="1386.4" y1="-208.2" x2="1386.4" y2="-208.2"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="1386.4" y1="-208.2" x2="1386.4" y2="-208.2"/>
                 </g>
             </g>
             <g id="DIMENSION_376_" display="none">
                 <g id="MTEXT_376_" display="inline">
 
-                    <text transform="matrix(0.9419 -0.336 0.336 0.9419 1382.2848 -256.6655)" fill="#F400FF" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
+                    <text transform="matrix(0.9419 -0.336 0.336 0.9419 1382.2848 -256.6655)" fill="red" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
                 </g>
                 <g id="POINT_1107_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="1396.1" y1="-260.4" x2="1396.1" y2="-260.4"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="1396.1" y1="-260.4" x2="1396.1" y2="-260.4"/>
                 </g>
                 <g id="POINT_1108_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="1388.9" y1="-257.9" x2="1388.9" y2="-257.9"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="1388.9" y1="-257.9" x2="1388.9" y2="-257.9"/>
                 </g>
             </g>
             <g id="DIMENSION_377_" display="none">
@@ -20608,57 +20610,57 @@
             <g id="DIMENSION_427_" display="none">
                 <g id="MTEXT_427_" display="inline">
 
-                    <text transform="matrix(0.336 0.9419 -0.9419 0.336 1167.6141 -192.7464)" fill="#F400FF" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
+                    <text transform="matrix(0.336 0.9419 -0.9419 0.336 1167.6141 -192.7464)" fill="red" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
                 </g>
                 <g id="POINT_1259_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="1164.5" y1="-198.2" x2="1164.5" y2="-198.2"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="1164.5" y1="-198.2" x2="1164.5" y2="-198.2"/>
                 </g>
                 <g id="POINT_1260_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="1167" y1="-191.1" x2="1167" y2="-191.1"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="1167" y1="-191.1" x2="1167" y2="-191.1"/>
                 </g>
             </g>
             <g id="DIMENSION_428_" display="none">
                 <g id="MTEXT_428_" display="inline">
 
-                    <text transform="matrix(0.9419 -0.336 0.336 0.9419 1162.9113 -142.0273)" fill="#F400FF" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
+                    <text transform="matrix(0.9419 -0.336 0.336 0.9419 1162.9113 -142.0273)" fill="red" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
                 </g>
                 <g id="POINT_1261_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="1157.4" y1="-138.9" x2="1157.4" y2="-138.9"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="1157.4" y1="-138.9" x2="1157.4" y2="-138.9"/>
                 </g>
                 <g id="POINT_1262_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="1164.6" y1="-141.5" x2="1164.6" y2="-141.5"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="1164.6" y1="-141.5" x2="1164.6" y2="-141.5"/>
                 </g>
             </g>
             <g id="DIMENSION_429_" display="none">
                 <g id="MTEXT_429_" display="inline">
 
-                    <text transform="matrix(0.336 0.9419 -0.9419 0.336 1381.3407 -137.1855)" fill="#F400FF" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
+                    <text transform="matrix(0.336 0.9419 -0.9419 0.336 1381.3407 -137.1855)" fill="red" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
                 </g>
                 <g id="POINT_1263_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="1385.1" y1="-123.4" x2="1385.1" y2="-123.4"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="1385.1" y1="-123.4" x2="1385.1" y2="-123.4"/>
                 </g>
                 <g id="POINT_1264_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="1382.6" y1="-130.5" x2="1382.6" y2="-130.5"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="1382.6" y1="-130.5" x2="1382.6" y2="-130.5"/>
                 </g>
             </g>
             <g id="DIMENSION_430_" display="none">
                 <g id="MTEXT_430_" display="inline">
 
-                    <text transform="matrix(0.9419 -0.336 0.336 0.9419 1378.3918 -178.9635)" fill="#F400FF" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
+                    <text transform="matrix(0.9419 -0.336 0.336 0.9419 1378.3918 -178.9635)" fill="red" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
                 </g>
                 <g id="POINT_1265_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="1392.2" y1="-182.7" x2="1392.2" y2="-182.7"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="1392.2" y1="-182.7" x2="1392.2" y2="-182.7"/>
                 </g>
                 <g id="POINT_1266_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="1385" y1="-180.2" x2="1385" y2="-180.2"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="1385" y1="-180.2" x2="1385" y2="-180.2"/>
                 </g>
             </g>
             <g id="DIMENSION_431_" display="none">
@@ -21598,57 +21600,57 @@
             <g id="DIMENSION_481_" display="none">
                 <g id="MTEXT_481_" display="inline">
 
-                    <text transform="matrix(0.336 0.9419 -0.9419 0.336 1163.7216 -115.0444)" fill="#F400FF" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
+                    <text transform="matrix(0.336 0.9419 -0.9419 0.336 1163.7216 -115.0444)" fill="red" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
                 </g>
                 <g id="POINT_1417_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="1160.6" y1="-120.5" x2="1160.6" y2="-120.5"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="1160.6" y1="-120.5" x2="1160.6" y2="-120.5"/>
                 </g>
                 <g id="POINT_1418_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="1163.2" y1="-113.4" x2="1163.2" y2="-113.4"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="1163.2" y1="-113.4" x2="1163.2" y2="-113.4"/>
                 </g>
             </g>
             <g id="DIMENSION_482_" display="none">
                 <g id="MTEXT_482_" display="inline">
 
-                    <text transform="matrix(0.9419 -0.336 0.336 0.9419 1159.0183 -64.3253)" fill="#F400FF" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
+                    <text transform="matrix(0.9419 -0.336 0.336 0.9419 1159.0183 -64.3253)" fill="red" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
                 </g>
                 <g id="POINT_1419_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="1153.5" y1="-61.2" x2="1153.5" y2="-61.2"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="1153.5" y1="-61.2" x2="1153.5" y2="-61.2"/>
                 </g>
                 <g id="POINT_1420_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="1160.7" y1="-63.8" x2="1160.7" y2="-63.8"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="1160.7" y1="-63.8" x2="1160.7" y2="-63.8"/>
                 </g>
             </g>
             <g id="DIMENSION_483_" display="none">
                 <g id="MTEXT_483_" display="inline">
 
-                    <text transform="matrix(0.336 0.9419 -0.9419 0.336 1377.4462 -59.4835)" fill="#F400FF" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
+                    <text transform="matrix(0.336 0.9419 -0.9419 0.336 1377.4462 -59.4835)" fill="red" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
                 </g>
                 <g id="POINT_1421_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="1381.2" y1="-45.7" x2="1381.2" y2="-45.7"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="1381.2" y1="-45.7" x2="1381.2" y2="-45.7"/>
                 </g>
                 <g id="POINT_1422_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="1378.7" y1="-52.8" x2="1378.7" y2="-52.8"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="1378.7" y1="-52.8" x2="1378.7" y2="-52.8"/>
                 </g>
             </g>
             <g id="DIMENSION_484_" display="none">
                 <g id="MTEXT_484_" display="inline">
 
-                    <text transform="matrix(0.9419 -0.336 0.336 0.9419 1374.4989 -101.2614)" fill="#F400FF" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
+                    <text transform="matrix(0.9419 -0.336 0.336 0.9419 1374.4989 -101.2614)" fill="red" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
                 </g>
                 <g id="POINT_1423_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="1388.3" y1="-105" x2="1388.3" y2="-105"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="1388.3" y1="-105" x2="1388.3" y2="-105"/>
                 </g>
                 <g id="POINT_1424_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="1381.1" y1="-102.5" x2="1381.1" y2="-102.5"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="1381.1" y1="-102.5" x2="1381.1" y2="-102.5"/>
                 </g>
             </g>
             <g id="DIMENSION_485_" display="none">
@@ -22588,57 +22590,57 @@
             <g id="DIMENSION_535_" display="none">
                 <g id="MTEXT_535_" display="inline">
 
-                    <text transform="matrix(0.336 0.9419 -0.9419 0.336 1159.829 -37.3423)" fill="#F400FF" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
+                    <text transform="matrix(0.336 0.9419 -0.9419 0.336 1159.829 -37.3423)" fill="red" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
                 </g>
                 <g id="POINT_1575_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="1156.7" y1="-42.8" x2="1156.7" y2="-42.8"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="1156.7" y1="-42.8" x2="1156.7" y2="-42.8"/>
                 </g>
                 <g id="POINT_1576_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="1159.3" y1="-35.7" x2="1159.3" y2="-35.7"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="1159.3" y1="-35.7" x2="1159.3" y2="-35.7"/>
                 </g>
             </g>
             <g id="DIMENSION_536_" display="none">
                 <g id="MTEXT_536_" display="inline">
 
-                    <text transform="matrix(0.9419 -0.336 0.336 0.9419 1155.1254 13.3767)" fill="#F400FF" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
+                    <text transform="matrix(0.9419 -0.336 0.336 0.9419 1155.1254 13.3767)" fill="red" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
                 </g>
                 <g id="POINT_1577_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="1149.6" y1="16.5" x2="1149.6" y2="16.5"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="1149.6" y1="16.5" x2="1149.6" y2="16.5"/>
                 </g>
                 <g id="POINT_1578_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="1156.8" y1="13.9" x2="1156.8" y2="13.9"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="1156.8" y1="13.9" x2="1156.8" y2="13.9"/>
                 </g>
             </g>
             <g id="DIMENSION_537_" display="none">
                 <g id="MTEXT_537_" display="inline">
 
-                    <text transform="matrix(0.336 0.9419 -0.9419 0.336 1373.5536 18.2186)" fill="#F400FF" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
+                    <text transform="matrix(0.336 0.9419 -0.9419 0.336 1373.5536 18.2186)" fill="red" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
                 </g>
                 <g id="POINT_1579_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="1377.3" y1="32" x2="1377.3" y2="32"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="1377.3" y1="32" x2="1377.3" y2="32"/>
                 </g>
                 <g id="POINT_1580_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="1374.8" y1="24.9" x2="1374.8" y2="24.9"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="1374.8" y1="24.9" x2="1374.8" y2="24.9"/>
                 </g>
             </g>
             <g id="DIMENSION_538_" display="none">
                 <g id="MTEXT_538_" display="inline">
 
-                    <text transform="matrix(0.9419 -0.336 0.336 0.9419 1370.606 -23.5594)" fill="#F400FF" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
+                    <text transform="matrix(0.9419 -0.336 0.336 0.9419 1370.606 -23.5594)" fill="red" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
                 </g>
                 <g id="POINT_1581_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="1384.4" y1="-27.3" x2="1384.4" y2="-27.3"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="1384.4" y1="-27.3" x2="1384.4" y2="-27.3"/>
                 </g>
                 <g id="POINT_1582_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="1377.3" y1="-24.8" x2="1377.3" y2="-24.8"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="1377.3" y1="-24.8" x2="1377.3" y2="-24.8"/>
                 </g>
             </g>
             <g id="DIMENSION_539_" display="none">
@@ -24961,57 +24963,57 @@
             <g id="DIMENSION_221_" display="none">
                 <g id="MTEXT_221_" display="inline">
 
-                    <text transform="matrix(0.336 0.9419 -0.9419 0.336 739.2411 194.7514)" fill="#F400FF" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
+                    <text transform="matrix(0.336 0.9419 -0.9419 0.336 739.2411 194.7514)" fill="red" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
                 </g>
                 <g id="POINT_643_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="736.1" y1="189.3" x2="736.1" y2="189.3"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="736.1" y1="189.3" x2="736.1" y2="189.3"/>
                 </g>
                 <g id="POINT_642_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="738.7" y1="196.4" x2="738.7" y2="196.4"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="738.7" y1="196.4" x2="738.7" y2="196.4"/>
                 </g>
             </g>
             <g id="DIMENSION_220_" display="none">
                 <g id="MTEXT_220_" display="inline">
 
-                    <text transform="matrix(0.9419 -0.336 0.336 0.9419 734.5377 245.4705)" fill="#F400FF" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
+                    <text transform="matrix(0.9419 -0.336 0.336 0.9419 734.5377 245.4705)" fill="red" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
                 </g>
                 <g id="POINT_641_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="729.1" y1="248.6" x2="729.1" y2="248.6"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="729.1" y1="248.6" x2="729.1" y2="248.6"/>
                 </g>
                 <g id="POINT_640_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="736.2" y1="246" x2="736.2" y2="246"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="736.2" y1="246" x2="736.2" y2="246"/>
                 </g>
             </g>
             <g id="DIMENSION_219_" display="none">
                 <g id="MTEXT_219_" display="inline">
 
-                    <text transform="matrix(0.336 0.9419 -0.9419 0.336 952.9657 250.3123)" fill="#F400FF" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
+                    <text transform="matrix(0.336 0.9419 -0.9419 0.336 952.9657 250.3123)" fill="red" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
                 </g>
                 <g id="POINT_639_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="956.7" y1="264.1" x2="956.7" y2="264.1"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="956.7" y1="264.1" x2="956.7" y2="264.1"/>
                 </g>
                 <g id="POINT_638_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="954.2" y1="257" x2="954.2" y2="257"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="954.2" y1="257" x2="954.2" y2="257"/>
                 </g>
             </g>
             <g id="DIMENSION_218_" display="none">
                 <g id="MTEXT_218_" display="inline">
 
-                    <text transform="matrix(0.9419 -0.336 0.336 0.9419 950.0183 208.5343)" fill="#F400FF" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
+                    <text transform="matrix(0.9419 -0.336 0.336 0.9419 950.0183 208.5343)" fill="red" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
                 </g>
                 <g id="POINT_321_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="963.8" y1="204.8" x2="963.8" y2="204.8"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="963.8" y1="204.8" x2="963.8" y2="204.8"/>
                 </g>
                 <g id="POINT_320_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="956.7" y1="207.3" x2="956.7" y2="207.3"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="956.7" y1="207.3" x2="956.7" y2="207.3"/>
                 </g>
             </g>
             <g id="DIMENSION_217_" display="none">
@@ -26526,57 +26528,57 @@
             <g id="DIMENSION_59_" display="none">
                 <g id="MTEXT_59_" display="inline">
 
-                    <text transform="matrix(0.336 0.9419 -0.9419 0.336 493.1844 182.4239)" fill="#F400FF" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
+                    <text transform="matrix(0.336 0.9419 -0.9419 0.336 493.1844 182.4239)" fill="red" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
                 </g>
                 <g id="POINT_169_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="490.1" y1="176.9" x2="490.1" y2="176.9"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="490.1" y1="176.9" x2="490.1" y2="176.9"/>
                 </g>
                 <g id="POINT_168_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="492.6" y1="184.1" x2="492.6" y2="184.1"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="492.6" y1="184.1" x2="492.6" y2="184.1"/>
                 </g>
             </g>
             <g id="DIMENSION_58_" display="none">
                 <g id="MTEXT_58_" display="inline">
 
-                    <text transform="matrix(0.9419 -0.336 0.336 0.9419 488.4814 233.1429)" fill="#F400FF" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
+                    <text transform="matrix(0.9419 -0.336 0.336 0.9419 488.4814 233.1429)" fill="red" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
                 </g>
                 <g id="POINT_167_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="483" y1="236.3" x2="483" y2="236.3"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="483" y1="236.3" x2="483" y2="236.3"/>
                 </g>
                 <g id="POINT_166_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="490.1" y1="233.7" x2="490.1" y2="233.7"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="490.1" y1="233.7" x2="490.1" y2="233.7"/>
                 </g>
             </g>
             <g id="DIMENSION_57_" display="none">
                 <g id="MTEXT_57_" display="inline">
 
-                    <text transform="matrix(0.336 0.9419 -0.9419 0.336 706.911 237.9848)" fill="#F400FF" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
+                    <text transform="matrix(0.336 0.9419 -0.9419 0.336 706.911 237.9848)" fill="red" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
                 </g>
                 <g id="POINT_165_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="710.7" y1="251.8" x2="710.7" y2="251.8"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="710.7" y1="251.8" x2="710.7" y2="251.8"/>
                 </g>
                 <g id="POINT_164_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="708.1" y1="244.6" x2="708.1" y2="244.6"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="708.1" y1="244.6" x2="708.1" y2="244.6"/>
                 </g>
             </g>
             <g id="DIMENSION_56_" display="none">
                 <g id="MTEXT_56_" display="inline">
 
-                    <text transform="matrix(0.9419 -0.336 0.336 0.9419 703.9619 196.2067)" fill="#F400FF" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
+                    <text transform="matrix(0.9419 -0.336 0.336 0.9419 703.9619 196.2067)" fill="red" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
                 </g>
                 <g id="POINT_163_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="717.7" y1="192.5" x2="717.7" y2="192.5"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="717.7" y1="192.5" x2="717.7" y2="192.5"/>
                 </g>
                 <g id="POINT_162_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="710.6" y1="195" x2="710.6" y2="195"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="710.6" y1="195" x2="710.6" y2="195"/>
                 </g>
             </g>
             <g id="DIMENSION_55_" display="none">
@@ -27803,57 +27805,57 @@
             <g id="DIMENSION_5_" display="none">
                 <g id="MTEXT_5_" display="inline">
 
-                    <text transform="matrix(0.336 0.9419 -0.9419 0.336 489.2919 260.1259)" fill="#F400FF" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
+                    <text transform="matrix(0.336 0.9419 -0.9419 0.336 489.2919 260.1259)" fill="red" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
                 </g>
                 <g id="POINT_11_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="486.2" y1="254.6" x2="486.2" y2="254.6"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="486.2" y1="254.6" x2="486.2" y2="254.6"/>
                 </g>
                 <g id="POINT_10_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="488.7" y1="261.8" x2="488.7" y2="261.8"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="488.7" y1="261.8" x2="488.7" y2="261.8"/>
                 </g>
             </g>
             <g id="DIMENSION_4_" display="none">
                 <g id="MTEXT_4_" display="inline">
 
-                    <text transform="matrix(0.9419 -0.336 0.336 0.9419 484.5886 310.8449)" fill="#F400FF" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
+                    <text transform="matrix(0.9419 -0.336 0.336 0.9419 484.5886 310.8449)" fill="red" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
                 </g>
                 <g id="POINT_9_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="479.1" y1="314" x2="479.1" y2="314"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="479.1" y1="314" x2="479.1" y2="314"/>
                 </g>
                 <g id="POINT_8_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="486.2" y1="311.4" x2="486.2" y2="311.4"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="486.2" y1="311.4" x2="486.2" y2="311.4"/>
                 </g>
             </g>
             <g id="DIMENSION_3_" display="none">
                 <g id="MTEXT_3_" display="inline">
 
-                    <text transform="matrix(0.336 0.9419 -0.9419 0.336 703.0165 315.6868)" fill="#F400FF" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
+                    <text transform="matrix(0.336 0.9419 -0.9419 0.336 703.0165 315.6868)" fill="red" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
                 </g>
                 <g id="POINT_7_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="706.8" y1="329.5" x2="706.8" y2="329.5"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="706.8" y1="329.5" x2="706.8" y2="329.5"/>
                 </g>
                 <g id="POINT_6_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="704.2" y1="322.3" x2="704.2" y2="322.3"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="704.2" y1="322.3" x2="704.2" y2="322.3"/>
                 </g>
             </g>
             <g id="DIMENSION_2_" display="none">
                 <g id="MTEXT_2_" display="inline">
 
-                    <text transform="matrix(0.9419 -0.336 0.336 0.9419 700.069 273.9087)" fill="#F400FF" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
+                    <text transform="matrix(0.9419 -0.336 0.336 0.9419 700.069 273.9087)" fill="red" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
                 </g>
                 <g id="POINT_5_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="713.8" y1="270.2" x2="713.8" y2="270.2"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="713.8" y1="270.2" x2="713.8" y2="270.2"/>
                 </g>
                 <g id="POINT_4_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="706.7" y1="272.7" x2="706.7" y2="272.7"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="706.7" y1="272.7" x2="706.7" y2="272.7"/>
                 </g>
             </g>
             <g id="DIMENSION_1_" display="none">
@@ -29080,57 +29082,57 @@
             <g id="DIMENSION_751_" display="none">
                 <g id="MTEXT_751_" display="inline">
 
-                    <text transform="matrix(0.336 0.9419 -0.9419 0.336 731.4559 350.1555)" fill="#F400FF" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
+                    <text transform="matrix(0.336 0.9419 -0.9419 0.336 731.4559 350.1555)" fill="red" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
                 </g>
                 <g id="POINT_2207_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="728.3" y1="344.7" x2="728.3" y2="344.7"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="728.3" y1="344.7" x2="728.3" y2="344.7"/>
                 </g>
                 <g id="POINT_2208_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="730.9" y1="351.8" x2="730.9" y2="351.8"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="730.9" y1="351.8" x2="730.9" y2="351.8"/>
                 </g>
             </g>
             <g id="DIMENSION_752_" display="none">
                 <g id="MTEXT_752_" display="inline">
 
-                    <text transform="matrix(0.9419 -0.336 0.336 0.9419 726.7518 400.8747)" fill="#F400FF" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
+                    <text transform="matrix(0.9419 -0.336 0.336 0.9419 726.7518 400.8747)" fill="red" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
                 </g>
                 <g id="POINT_2209_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="721.3" y1="404" x2="721.3" y2="404"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="721.3" y1="404" x2="721.3" y2="404"/>
                 </g>
                 <g id="POINT_2210_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="728.4" y1="401.4" x2="728.4" y2="401.4"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="728.4" y1="401.4" x2="728.4" y2="401.4"/>
                 </g>
             </g>
             <g id="DIMENSION_753_" display="none">
                 <g id="MTEXT_753_" display="inline">
 
-                    <text transform="matrix(0.336 0.9419 -0.9419 0.336 945.1805 405.7164)" fill="#F400FF" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
+                    <text transform="matrix(0.336 0.9419 -0.9419 0.336 945.1805 405.7164)" fill="red" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
                 </g>
                 <g id="POINT_2211_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="948.9" y1="419.5" x2="948.9" y2="419.5"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="948.9" y1="419.5" x2="948.9" y2="419.5"/>
                 </g>
                 <g id="POINT_2212_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="946.4" y1="412.4" x2="946.4" y2="412.4"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="946.4" y1="412.4" x2="946.4" y2="412.4"/>
                 </g>
             </g>
             <g id="DIMENSION_754_" display="none">
                 <g id="MTEXT_754_" display="inline">
 
-                    <text transform="matrix(0.9419 -0.336 0.336 0.9419 942.2325 363.9384)" fill="#F400FF" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
+                    <text transform="matrix(0.9419 -0.336 0.336 0.9419 942.2325 363.9384)" fill="red" font-family="'ArialMT'" font-size="3.0524">R7,00</text>
                 </g>
                 <g id="POINT_2213_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="956" y1="360.2" x2="956" y2="360.2"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="956" y1="360.2" x2="956" y2="360.2"/>
                 </g>
                 <g id="POINT_2214_">
 
-                    <line display="inline" fill="none" stroke="#F400FF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="948.9" y1="362.7" x2="948.9" y2="362.7"/>
+                    <line display="inline" fill="none" stroke="red" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="948.9" y1="362.7" x2="948.9" y2="362.7"/>
                 </g>
             </g>
             <g id="DIMENSION_755_" display="none">
@@ -36534,7 +36536,7 @@
         </g>
         <g id="TEXT_3569_">
 
-            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 1189.3103 411.3158)" fill="#F400FF" font-family="'ArialMT'" font-size="16.631">U.A.G.R.M.</text>
+            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 1189.3103 411.3158)" fill="red" font-family="'ArialMT'" font-size="16.631">U.A.G.R.M.</text>
         </g>
         <g id="TEXT_3570_">
             <text transform="matrix(1 0 0 1 939.1563 1112.2653)" font-family="'ArialMT'" font-size="3.0524">1</text>
@@ -38420,19 +38422,19 @@
         </g>
         <g id="TEXT_4424_">
 
-            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 953.789 1022.4367)" fill="#F400FF" font-family="'ArialMT'" font-size="16.631">MZ-113</text>
+            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 953.789 1022.4367)" fill="red" font-family="'ArialMT'" font-size="16.631">MZ-113</text>
         </g>
         <g id="TEXT_4425_">
 
-            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 968.4357 787.5599)" fill="#F400FF" font-family="'ArialMT'" font-size="16.631">MZ-114</text>
+            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 968.4357 787.5599)" fill="red" font-family="'ArialMT'" font-size="16.631">MZ-114</text>
         </g>
         <g id="TEXT_4427_">
 
-            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 1051.4734 920.4779)" fill="#F400FF" font-family="'ArialMT'" font-size="16.631">MZ-135</text>
+            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 1051.4734 920.4779)" fill="red" font-family="'ArialMT'" font-size="16.631">MZ-135</text>
         </g>
         <g id="TEXT_5172_">
 
-            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 1190.7886 427.8801)" fill="#F400FF" font-family="'ArialMT'" font-size="16.631">MZ-139</text>
+            <text transform="matrix(1 2.480000e-003 -2.480000e-003 1 1190.7886 427.8801)" fill="red" font-family="'ArialMT'" font-size="16.631">MZ-139</text>
         </g>
         <g id="TEXT_5175_">
 
@@ -38800,19 +38802,19 @@
         </g>
         <g id="TEXT_5263_">
 
-            <text transform="matrix(0.999 4.568000e-002 -4.568000e-002 0.999 563.0716 1202.2153)" fill="#F400FF" font-family="'RomanC'" font-size="16.631">V24</text>
+            <text transform="matrix(0.999 4.568000e-002 -4.568000e-002 0.999 563.0716 1202.2153)" fill="red" font-family="'RomanC'" font-size="16.631">V24</text>
         </g>
         <g id="TEXT_5264_">
 
-            <text transform="matrix(0.999 4.568000e-002 -4.568000e-002 0.999 686.2393 1206.6116)" fill="#F400FF" font-family="'RomanC'" font-size="16.631">V25</text>
+            <text transform="matrix(0.999 4.568000e-002 -4.568000e-002 0.999 686.2393 1206.6116)" fill="red" font-family="'RomanC'" font-size="16.631">V25</text>
         </g>
         <g id="TEXT_5265_">
 
-            <text transform="matrix(0.999 4.568000e-002 -4.568000e-002 0.999 796.9202 1207.5011)" fill="#F400FF" font-family="'RomanC'" font-size="16.631">V26</text>
+            <text transform="matrix(0.999 4.568000e-002 -4.568000e-002 0.999 796.9202 1207.5011)" fill="red" font-family="'RomanC'" font-size="16.631">V26</text>
         </g>
         <g id="TEXT_5266_">
 
-            <text transform="matrix(0.999 4.568000e-002 -4.568000e-002 0.999 907.0601 1210.2134)" fill="#F400FF" font-family="'RomanC'" font-size="16.631">V27</text>
+            <text transform="matrix(0.999 4.568000e-002 -4.568000e-002 0.999 907.0601 1210.2134)" fill="red" font-family="'RomanC'" font-size="16.631">V27</text>
         </g>
         <g id="DIMENSION_770_">
             <g id="POINT_2306_" display="none">
@@ -39116,7 +39118,6 @@
 </div>
   <div class="panel-footer">Pie del panel</div>
 </div>
-{!!Html::script('js/mapa.js')!!}
 
 <!--
 <div id="caja" style="    min-width: 189px;

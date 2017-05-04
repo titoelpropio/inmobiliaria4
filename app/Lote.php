@@ -12,7 +12,7 @@ use Illuminate\Contracts\Auth\Authenticatable as AuthenticatableContract;
 use Illuminate\Contracts\Auth\Access\Authorizable as AuthorizableContract;
 use Illuminate\Contracts\Auth\CanResetPassword as CanResetPasswordContract;
 
-class Mapa extends Authenticatable implements AuthenticatableContract,
+class Lote extends Authenticatable implements AuthenticatableContract,
                                     AuthorizableContract
                                     
 {

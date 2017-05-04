@@ -16,6 +16,9 @@
 Route::resource('categoria','CategoriaController');
 Route::get('listacategoria1','CategoriaController@listacategoria1');
 
+//cliente
+Route::resource('cliente','ClienteController');
+
 
 //mapa
 Route::resource('mapa','MapaController');
